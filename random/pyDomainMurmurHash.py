@@ -1,8 +1,8 @@
 '''
-DomainMurmurHash - This tool is to calculate the MurmurHash value of a phishing website's favicon. That value is used for hunting on Shodan.
+DomainMurmurHash - This tool is to calculate the MurmurHash value of a favicon. That value is used for hunting phishing websites on Shodan.
 '''
 
-__description__ = 'DomainMurmurHash - This tool is to calculate the MurmurHash value of a phishing websites favicon. That value is used for hunting on Shodan.'
+__description__ = 'DomainMurmurHash - This tool is to calculate the MurmurHash value of a favicon. That value is used for hunting phishing websites on Shodan.'
 __author__ = 'Jacob Soo'
 __version__ = '0.1'
 __date__ = '27/02/2021'
